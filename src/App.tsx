@@ -14,6 +14,7 @@ import { PlayCircleIcon } from 'lucide-react';
 export function App() {
   return (
     <>
+      <Heading>Número: </Heading>
       <Container>
         <Logo />
       </Container>
