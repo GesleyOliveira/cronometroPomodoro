@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 type AvailableThemes = 'dark' | 'light';
 
 //teste
+//teste
 
 export function Menu() {
   const [theme, setTheme] = useState<AvailableThemes>(() => {
